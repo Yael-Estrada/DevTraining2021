@@ -1,4 +1,4 @@
-package com.sngular.devTrining2021.test.exercises;
+package com.sngular.devTrining2021.exercises;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
